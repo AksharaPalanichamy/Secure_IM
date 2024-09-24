@@ -82,7 +82,6 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'secure_IM_db',
         'USER': 'secure_IM_user',
-        'PASSWORD': 'User123!',
         'HOST': 'localhost',
         'PORT': '3306',
     }
